@@ -22,7 +22,7 @@ The rapid advancement of AI/ML has positioned HPC systems as indispensable platf
 ## 🚀 Submissions
 Scientific contributions must be submitted via the official portal.
 
-> ### [👉 Submit via ISC Submission Portal](https://INSERT-YOUR-LINK-HERE.com)
+> ### [👉 Submit via ISC Submission Portal](https://isc-hpc.com/submissions/)
 > *Note: Portal opens soon.*
 
 * **Format:** LNCS Format (6 to 12 pages).
